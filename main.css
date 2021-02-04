@@ -4,7 +4,8 @@
     box-shadow: 0;
 }
 body{
-    background: linear-gradient(120deg , teal,rgb(74, 173, 124)) fixed;
+    background: linear-gradient(
+        120deg , teal,rgb(74, 173, 124)) fixed;
     /* height: 100%; */
     
     
